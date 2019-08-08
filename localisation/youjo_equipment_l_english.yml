@@ -1,0 +1,13 @@
+﻿l_english:
+ #mage stuff
+ mage_folder:0 "Mage Equipment"
+ mage_equipment:0 "Mage Equipment"
+ mage_equipment_0:0 "Pre-war Mage Equipment"
+ mage_equipment_1:0 "Early Mage Equipment"
+ mage_equipment_2:0 "Late Mage Equipment"
+ mage_equipment_3:0 "Advanced Mage Equipment"
+ mage_equipment_desc:0 "Mage equiptment consists of a magical computation core, a flight system, and magically enhanced weaponry."
+ mage_equipment_0_desc:0 "Mage equiptment consists of a magical computation core, a flight system, and magically enhanced weaponry."
+ mage_equipment_1_desc:0 "Mage equiptment consists of a magical computation core, a flight system, and magically enhanced weaponry."
+ mage_equipment_2_desc:0 "Mage equiptment consists of a magical computation core, a flight system, and magically enhanced weaponry."
+ mage_equipment_3_desc:0 "Mage equiptment consists of a magical computation core, a flight system, and magically enhanced weaponry."
