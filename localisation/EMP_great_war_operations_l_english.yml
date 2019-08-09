@@ -29,9 +29,9 @@ EMP_revolving_door_prep_desc:0 "description to be added by someone better at wri
 
 revolving_door_prepped:0 "Operation Revolving Door has been prepared"
 
-EMP_revolving_door:0 "Operation Revolving Door"
+EMP_revolving_door:0 "회전문 작전"
 
-EMP_lock_pick:0 "Operation Lock Pick"
+EMP_lock_pick:0 "빗장 풀기 작전"
 
-EMP_shock_and_awe:0 "Operation Shock and Awe"
+EMP_shock_and_awe:0 "충격과 공포 작전"
 
